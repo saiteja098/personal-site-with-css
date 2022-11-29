@@ -1,0 +1,126 @@
+body{
+    margin: 0px;
+    text-align: center;
+    color: #40514E;
+    font-family: 'Montserrat', sans-serif;
+}
+.top-container{
+    background-color:#EAF6F6;
+    position: relative;
+    padding-top: 100px;
+}
+span.pro{
+    text-decoration:dotted;
+}
+h1{
+    margin: 50px auto 0;
+    font-family: 'Sacramento', cursive;
+    font-size: 90px;
+    color: #66BFBF;
+    line-height: 2;
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    color: #66BFBF;
+    font-weight: normal;
+    padding-bottom: 10px;
+}
+.intro{
+    width: 30%;
+    margin: auto;
+}
+p{
+    line-height: 2;
+}
+h3{
+    font-family: 'Merriweather', serif;
+    color: #11999E;
+}
+p{
+    margin: 0 auto 0;
+}
+
+.bottom-cloud{
+    position: absolute;
+    left: 200px;
+
+}
+.top-cloud{
+    position: relative;
+    left: 400px;
+    top: 20px;
+}
+a{
+    color: #11999E;
+}
+.skill-row{
+    width: 50%;
+    position: inline;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+    padding-bottom: 30px;
+}
+.skills-image{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+.plant-image{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    width: 3%;
+    border-spacing: 1px;
+    border-color: #EAF6F6;
+    border-width: 4px;
+    margin: 50px auto;
+}
+a.btn{
+    display: inline-block;
+    background-color: #11999E;
+    border-radius: 6px;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    font-size: 1rem;
+    text-decoration: none;
+    padding: 10px 20px;
+    margin: 50px auto;
+}
+a.btn :visited{
+    background-color: coral;
+}
+a.btn :hover{
+    text-decoration: underline;
+}
+.contact-discription{
+    width: 30%;
+}
+.bottom-container{
+    background-color: #66BFBF;
+    height: 80px;
+    padding: 50px 0 20px 0;
+}
+a.footer-link{
+    padding: 40px;
+    text-decoration: none;
+    color: #11999E;
+}
+a.footer-link:visited{
+    color: rgb(129, 129, 214);
+}
+a.footer-link:hover{
+    color: #EAF6F6;
+}
+.copyright{
+    margin: 40px auto 0;
+    color: #EAF6F6;
+}
+
+    
